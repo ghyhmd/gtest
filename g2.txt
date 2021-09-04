@@ -1,0 +1,5 @@
+this is an other test
+git push是git使用中最长用到的一个命令之一，那么你知道git push和git push -u origin master有什么关系，又有什么区别么？什么时候可以直接push，而什么时候需要加参数？本文就一起来学习一下
+
+
+
